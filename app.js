@@ -51,19 +51,19 @@
 // }
 
 // TASK 3
-var numberArray = [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20];
-var evenArr = [];
-var oddArr = [];
+// var numberArray = [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20];
+// var evenArr = [];
+// var oddArr = [];
 
-for(var i = 0; i < numberArray.length; i++){
-    if(numberArray[i] % 2 == 0){
-        evenArr.push(numberArray[i]);
-    }else{
-        oddArr.push(numberArray[i]);
-    }
-}
+// for(var i = 0; i < numberArray.length; i++){
+//     if(numberArray[i] % 2 == 0){
+//         evenArr.push(numberArray[i]);
+//     }else{
+//         oddArr.push(numberArray[i]);
+//     }
+// }
 
-document.write("<h1>Odd Numbers</h1>");
-document.write("<br />Odd numbers: " + oddArr);
-document.write("<br /><h1>Even Numbers</h1>");
-document.write("<br />Even numbers: " + evenArr);
+// document.write("<h1>Odd Numbers</h1>");
+// document.write("<br />Odd numbers: " + oddArr);
+// document.write("<br /><h1>Even Numbers</h1>");
+// document.write("<br />Even numbers: " + evenArr);
